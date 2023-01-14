@@ -2,7 +2,7 @@
 
 SDET-II | 3.1+ years Exp. | India
 
-I am a Clean Code and Automation Evangelist who loves to create industry standard frameworks for Web, and API automation and contribute here in my Github.
+As a devout advocate for clean code and automation, I relish in the opportunity to craft industry-leading frameworks for web and API automation. My passion for these endeavors is evident in the contributions I make to my Github, where I strive to elevate the standard of excellence.
 
 Skills: Java, C#, Selenium, TestNG, Cucumber, RESTAssured, Jenkins, GIT, Postman
 
