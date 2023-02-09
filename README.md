@@ -6,6 +6,8 @@
 <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&weight=500&size=25&duration=4000&pause=500&color=EB5775&center=true&vCenter=true&width=550&lines=Hi%2C+I+am+Yuvraj+Vardhan;Namaste+from+India!;I+am+an+Automation+Engineer" alt="Typing SVG" /></a>
 </div>
 
+<h3 align="center"> As a devout advocate for clean code and automation, I relish in the opportunity to craft industry-leading frameworks for Web, Databse and API automation. My passion for these endeavors is evident in the contributions I make to my Github, where I strive to elevate the standard of excellence. </h3>
+
 <!-- Social Media -->
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/yuvrajvardhan/">
@@ -36,6 +38,7 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="git" width="40" height="40"/> </a> 
   <a href="https://rest-assured.io/" target="_blank" rel="noreferrer"> <img src="https://rest-assured.io/img/logo-transparent.png" alt="resrassured" width="40" height="40"/> </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/286/519/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-azure-sql-data-warehouse-logo-text-logo-microsoft-azure-thumbnail.png" alt="sql" width="40" height="40"/> </a> 
   <a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png" alt="maven" width="40" height="40"/> </a> 
 <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> 
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
@@ -60,15 +63,6 @@
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
  <img alt="Yuvraj Vardhan's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=vardhanyuvraj&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true">
 </a>
-
-As a devout advocate for clean code and automation, I relish in the opportunity to craft industry-leading frameworks for web and API automation. My passion for these endeavors is evident in the contributions I make to my Github, where I strive to elevate the standard of excellence.
-
-Skills: Java, C#, Selenium, TestNG, Cucumber, RESTAssured, Jenkins, GIT, Postman
-
-- 👀 I’m interested in Playwright, Python
-- 🌱 I’m currently working on content creation
-- 💞️ I’m looking to collaborate on Selenium framework building
-- 📫 How to reach me - vardhan.yuvraj.singh@gmail.com
 
 <!---
 vardhanyuvraj/vardhanyuvraj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
