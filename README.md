@@ -6,7 +6,7 @@
 <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&weight=500&size=25&duration=4000&pause=500&color=EB5775&center=true&vCenter=true&width=550&lines=Hi%2C+I+am+Yuvraj+Vardhan;Namaste+from+India!;I+am+an+Automation+Engineer" alt="Typing SVG" /></a>
 </div>
 
-<h3 align="center"> As a devout advocate for clean code and automation, I relish in the opportunity to craft industry-leading frameworks for Web, Databse and API automation. My passion for these endeavors is evident in the contributions I make to my Github, where I strive to elevate the standard of excellence. </h3>
+<h3 align="center"> As a devout advocate for clean code and automation, I relish in the opportunity to craft industry-leading frameworks for Web, Database and API automation. My passion for these endeavors is evident in the contributions I make to my Github, where I strive to elevate the standard of excellence. </h3>
 
 <!-- Social Media -->
 <div id="badges" align="center">
