@@ -6,7 +6,7 @@
 <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&weight=500&size=25&duration=4000&pause=500&color=EB5775&center=true&vCenter=true&width=550&lines=Hi%2C+I+am+Yuvraj+Vardhan;Namaste+from+India!;I+am+an+Automation+Engineer" alt="Typing SVG" /></a>
 </div>
 
-<h3 align="center"> As a test automation enthusiast, I'm dedicated to crafting robust and efficient automation solutions that help improve product quality and streamline development workflows. My passion for testing and automation is reflected in the high-quality contributions I make to Github, where I actively share my knowledge and collaborate with others in the community.
+<h3 align="center"> As a test automation enthusiast, I'm dedicated to crafting robust and efficient automation solutions that help improve product quality and streamline development workflows. My passion for testing and automation is reflected in the high-quality contributions I make to Github, and I post actively on LinkedIn to share my knowledge and collaborate with others in the testing community. <br>
   I'm always looking for new challenges and opportunities to improve my skills, and I thrive in fast-paced and dynamic environments. </h3>
 
 <!-- Social Media -->
